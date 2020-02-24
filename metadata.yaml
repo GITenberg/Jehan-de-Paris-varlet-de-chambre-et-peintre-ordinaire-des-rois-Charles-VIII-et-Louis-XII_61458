@@ -1,11 +1,16 @@
 _repo: Jehan-de-Paris-varlet-de-chambre-et-peintre-ordinaire-des-rois-Charles-VIII-et-Louis-XII_61458
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61458-h/images/cover.jpg
 creator:
   author:
     agent_name: Renouvier, Jules
     gutenberg_agent_id: '51437'
     url: http://www.gutenberg.org/2009/agents/51437
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61458#Jehan-de-Paris-varlet-de-chambre-et-peintre-ordinaire-des-rois-Charles-VIII-et-Louis-XII
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Histoire
